@@ -1,5 +1,6 @@
 # [OS]Lecture 5. Process Scheduling(2)
 
+[[OS] Lecture 5. Process Scheduling (2/4) - FCFS, RR / 운영체제 강의](https://www.youtube.com/watch?v=r1JVA7yOPAM&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=9)
 ## Basic Scheduling algorithms
 
 1. **FCFS(First-Come-First-Service)**
