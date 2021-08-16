@@ -1,0 +1,2 @@
+Here, this folder; naver_boostcamp, will make files to take a memo & basic essential knowledge of Computer science.
+Many thanks.
